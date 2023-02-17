@@ -7,7 +7,7 @@ export const works = [
         "tecnologias": "html,css,js, (Web responsive)",
         "url": "pokedex-iker.netlify.app/",
         "categorias": "Desarrollo web",
-        "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure in quis repudiandae consequatur, ad non! Impedit, molestias!"
+        "descripcion": ""
     },
     {
         'id' : 1,
@@ -15,7 +15,7 @@ export const works = [
         "tecnologias": "html,css,Js,Bootstrap5 (Web responsive)",
         "url": "preeminent-mermaid-4606b1.netlify.app/",
         "categorias": "Desarrollo web",
-        "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure in quis repudiandae consequatur, ad non! Impedit, molestias!"
+        "descripcion": ""
     },
     {
         'id' : 2,
@@ -23,7 +23,7 @@ export const works = [
         "tecnologias": "Html5, css, Js, Bootstrap5 (Web responsive)",
         "url": "vaccination-iker.netlify.app/",
         "categorias": "Desarrollo web",
-        "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure in quis repudiandae consequatur, ad non! Impedit, molestias!"
+        "descripcion": ""
     },
     {
         'id' : 3,
@@ -31,7 +31,7 @@ export const works = [
         "tecnologias": "Html5, css, Js, Ruby, Rails, Postgres, Sass",
         "url": "powerful-waters-05355.herokuapp.com/logins",
         "categorias": "Desarrollo web",
-        "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure in quis repudiandae consequatur, ad non! Impedit, molestias!"
+        "descripcion": ""
     },
     {
         'id' : 4,
@@ -39,7 +39,7 @@ export const works = [
         "tecnologias": "Html5, css, Js, React, Node.Js (Web responsive)",
         "url": "ikerismak.github.io/TodoApp/",
         "categorias": "Desarrollo web",
-        "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure in quis repudiandae consequatur, ad non! Impedit, molestias!"
+        "descripcion": ""
     },
     {
         'id' : 5,
@@ -47,7 +47,7 @@ export const works = [
         "tecnologias": "Html5, css, Js, React, Vite, MongoDb, API rest , Express, Node.Js",
         "url": "misprojectosdeejemplo.com",
         "categorias": "Desarrollo web",
-        "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure in quis repudiandae consequatur, ad non! Impedit, molestias!"
+        "descripcion": "this project is not available -  for more information please contact me at ikerismak@gmail.com"
     },
     {
         'id' : 6,
@@ -55,7 +55,7 @@ export const works = [
         "tecnologias": "html,css,js,React,Node.js, (Web responsive)",
         "url": "ikerismak-web.vercel.app/inicio",
         "categorias": "Desarrollo web",
-        "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure in quis repudiandae consequatur, ad non! Impedit, molestias!"
+        "descripcion": ""
     },
     {
         'id' :7,
@@ -63,7 +63,7 @@ export const works = [
         "tecnologias": "Html, css, Js, React, Node Js, MD5",
         "url": "Proyecto no disponible online(Contact for more information)",
         "categorias": "Desarrollo web ",
-        "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure in quis repudiandae consequatur, ad non! Impedit, molestias!"
+        "descripcion": "this project is not available -  for more information please contact me at ikerismak@gmail.com"
     },
     {
         'id' :8,
@@ -71,7 +71,7 @@ export const works = [
         "tecnologias": "html,css,js,php,mysql (Web responsive)",
         "url": "ikerismak.github.io/screenlandingpage/",
         "categorias": "Desarrollo web",
-        "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure in quis repudiandae consequatur, ad non! Impedit, molestias!"
+        "descripcion": ""
     },
     {
         'id' :9,
@@ -79,7 +79,7 @@ export const works = [
         "tecnologias": "Html,Css (Web responsive)",
         "url": "ikerismak.github.io/mokuplanding.github.io/",
         "categorias": "Desarrollo web",
-        "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure in quis repudiandae consequatur, ad non! Impedit, molestias!"
+        "descripcion": ""
     }
 
 
