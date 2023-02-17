@@ -42,6 +42,8 @@ export const Curriculum = () => {
         <li><img className="logos-tool" src={"/icons/" + "mongodb" + ".png"} alt="" /></li>
         <li><img className="logos-tool" src={"/icons/" + "git" + ".png"} alt="" /></li>
         <li><img className="logos-tool" src={"/icons/" + "github" + ".png"} alt="" /></li>
+        <li><img className="logos-tool" src={"/icons/" + "postman-icon" + ".png"} alt="" /></li>
+        <li><img className="logos-tool" src={"/icons/" + "jest-js-icon" + ".png"} alt="" /></li>
       </ul>
       <ul>
       <li><img className="logos-tool" src={"/icons/" + "node-js" + ".png"} alt="" /></li>
