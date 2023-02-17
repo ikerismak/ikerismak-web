@@ -486,6 +486,12 @@ button:hover{
 
   }
 
+  .image-container-project img{
+
+    width: 600px;
+
+}
+
 
 
 }
@@ -511,6 +517,12 @@ button:hover{
     width: 350px;
 
   }
+
+  .image-container-project img{
+
+    width: 300px;
+
+}
 
 
 

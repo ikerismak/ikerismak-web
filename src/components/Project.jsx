@@ -34,6 +34,7 @@ export const Project = () => {
 
         <p>{project.tecnologias}</p>
         <p>{project.descripcion}</p>
+
         <div className='image-container-project'>
             <img src={"/images/" + project.id + ".png"} alt="" />
         </div>
