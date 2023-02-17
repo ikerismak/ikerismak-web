@@ -53,7 +53,7 @@ export const works = [
         'id' : 6,
         "nombre": "Projects Portfolio",
         "tecnologias": "html,css,js,React,Node.js, (Web responsive)",
-        "url": "misprojectosdeejemplo.com",
+        "url": "ikerismak-web.vercel.app/inicio",
         "categorias": "Desarrollo web",
         "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure in quis repudiandae consequatur, ad non! Impedit, molestias!"
     },
