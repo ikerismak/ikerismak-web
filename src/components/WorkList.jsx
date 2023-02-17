@@ -12,7 +12,8 @@ export const WorkList = () => {
 
               <div className='mask'>
 
-                <img src={"/images/" + work.id + ".png"} alt="" />
+
+                <Link to={"/proyecto/" + work.id +"/"+ work.nombre}> <img src={"/images/" + work.id + ".png"} alt="" /></Link>
 
               </div>
               <span>{work.categorias}</span>
