@@ -5,7 +5,7 @@ export const FooterPage = () => {
     <footer>
       <div>
         <section>
-        &copy; Iker Ismak Toscano Santos, React proyect
+        &copy; Iker Ismak Toscano Santos, React project
 
         </section>
         <section className='icon-container'>
