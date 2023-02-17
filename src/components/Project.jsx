@@ -32,12 +32,12 @@ export const Project = () => {
     <div>
         <h1 className='heading'> {project.nombre}<a className='link-deploy' href={"http://"+ project.url} target= "_blank"> - Go to project</a></h1>
 
-
+        <p>{project.tecnologias}</p>
+        <p>{project.descripcion}</p>
         <div className='image-container-project'>
             <img src={"/images/" + project.id + ".png"} alt="" />
         </div>
-        <p>{project.tecnologias}</p>
-        <p>{project.descripcion}</p>
+
 
 
 
