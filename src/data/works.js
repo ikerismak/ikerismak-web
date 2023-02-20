@@ -80,6 +80,14 @@ export const works = [
         "url": "ikerismak.github.io/mokuplanding.github.io/",
         "categorias": "Desarrollo web",
         "descripcion": ""
+    },
+    {
+        'id' :10,
+        "nombre": "Wheather page-app",
+        "tecnologias": "Html,Css,Js, pico Css (Web responsive)",
+        "url": "https://ikerismak.github.io/weather-app/",
+        "categorias": "Desarrollo web",
+        "descripcion": ""
     }
 
 
