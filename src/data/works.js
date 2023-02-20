@@ -85,7 +85,7 @@ export const works = [
         'id' :10,
         "nombre": "Wheather page-app",
         "tecnologias": "Html,Css,Js, pico Css (Web responsive)",
-        "url": "https://ikerismak.github.io/weather-app/",
+        "url": "ikerismak.github.io/weather-app-page/",
         "categorias": "Desarrollo web",
         "descripcion": ""
     }
