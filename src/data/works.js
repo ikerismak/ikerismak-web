@@ -11,7 +11,7 @@ export const works = [
     },
 
     {
-        'id' :1,
+        'id' :10,
         "nombre": "Wheather page-app",
         "tecnologias": "Html,Css,Js, pico Css, API consult(Web responsive)",
         "url": "ikerismak.github.io/weather-app-page/",
@@ -19,7 +19,7 @@ export const works = [
         "descripcion": ""
     },
     {
-        'id' : 2,
+        'id' : 1,
         "nombre": "Bakery landing page",
         "tecnologias": "html,css,Js,Bootstrap5 (Web responsive)",
         "url": "preeminent-mermaid-4606b1.netlify.app/",
@@ -29,7 +29,7 @@ export const works = [
 
 
     {
-        'id' : 3,
+        'id' : 2,
         "nombre": "Vaccines landing page",
         "tecnologias": "Html5, css, Js, Bootstrap5 (Web responsive)",
         "url": "vaccination-iker.netlify.app/",
@@ -37,7 +37,7 @@ export const works = [
         "descripcion": ""
     },
     {
-        'id' : 4,
+        'id' : 3,
         "nombre": "Employee checker",
         "tecnologias": "Html5, css, Js, Ruby, Rails, Postgres, Sass",
         "url": "powerful-waters-05355.herokuapp.com",
@@ -45,7 +45,7 @@ export const works = [
         "descripcion": ""
     },
     {
-        'id' : 5,
+        'id' : 4,
         "nombre": "ToDo app",
         "tecnologias": "Html5, css, Js, React, Node.Js (Web responsive)",
         "url": "ikerismak.github.io/TodoApp/",
@@ -61,7 +61,7 @@ export const works = [
         "descripcion": ""
     },
     {
-        'id' : 7,
+        'id' : 5,
         "nombre": "Movies Blog",
         "tecnologias": "Html5, css, Js, React, Vite, MongoDb, API rest , Express, Node.Js",
         "url": "misprojectosdeejemplo.com",
@@ -93,14 +93,7 @@ export const works = [
         "categorias": "Desarrollo web",
         "descripcion": ""
     },
-    {
-        'id' : 10,
-        "nombre": "Bakery landing page",
-        "tecnologias": "html,css,Js,Bootstrap5 (Web responsive)",
-        "url": "preeminent-mermaid-4606b1.netlify.app/",
-        "categorias": "Desarrollo web",
-        "descripcion": ""
-    },
+
 
 
 
