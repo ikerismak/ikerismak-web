@@ -9,16 +9,27 @@ export const works = [
         "categorias": "Desarrollo web",
         "descripcion": ""
     },
+
     {
-        'id' : 1,
+        'id' :1,
+        "nombre": "Wheather page-app",
+        "tecnologias": "Html,Css,Js, pico Css, API consult(Web responsive)",
+        "url": "ikerismak.github.io/weather-app-page/",
+        "categorias": "Desarrollo web",
+        "descripcion": ""
+    },
+    {
+        'id' : 2,
         "nombre": "Bakery landing page",
         "tecnologias": "html,css,Js,Bootstrap5 (Web responsive)",
         "url": "preeminent-mermaid-4606b1.netlify.app/",
         "categorias": "Desarrollo web",
         "descripcion": ""
     },
+
+
     {
-        'id' : 2,
+        'id' : 3,
         "nombre": "Vaccines landing page",
         "tecnologias": "Html5, css, Js, Bootstrap5 (Web responsive)",
         "url": "vaccination-iker.netlify.app/",
@@ -26,7 +37,7 @@ export const works = [
         "descripcion": ""
     },
     {
-        'id' : 3,
+        'id' : 4,
         "nombre": "Employee checker",
         "tecnologias": "Html5, css, Js, Ruby, Rails, Postgres, Sass",
         "url": "powerful-waters-05355.herokuapp.com",
@@ -34,20 +45,12 @@ export const works = [
         "descripcion": ""
     },
     {
-        'id' : 4,
+        'id' : 5,
         "nombre": "ToDo app",
         "tecnologias": "Html5, css, Js, React, Node.Js (Web responsive)",
         "url": "ikerismak.github.io/TodoApp/",
         "categorias": "Desarrollo web",
         "descripcion": ""
-    },
-    {
-        'id' : 5,
-        "nombre": "Movies Blog",
-        "tecnologias": "Html5, css, Js, React, Vite, MongoDb, API rest , Express, Node.Js",
-        "url": "misprojectosdeejemplo.com",
-        "categorias": "Desarrollo web",
-        "descripcion": "this project is not available -  for more information please contact me at ikerismak@gmail.com"
     },
     {
         'id' : 6,
@@ -57,6 +60,15 @@ export const works = [
         "categorias": "Desarrollo web",
         "descripcion": ""
     },
+    {
+        'id' : 7,
+        "nombre": "Movies Blog",
+        "tecnologias": "Html5, css, Js, React, Vite, MongoDb, API rest , Express, Node.Js",
+        "url": "misprojectosdeejemplo.com",
+        "categorias": "Desarrollo web",
+        "descripcion": "this project is not available -  for more information please contact me at ikerismak@gmail.com"
+    },
+
     {
         'id' :7,
         "nombre": "SSDAE (tesis tracker)",
@@ -82,13 +94,14 @@ export const works = [
         "descripcion": ""
     },
     {
-        'id' :10,
-        "nombre": "Wheather page-app",
-        "tecnologias": "Html,Css,Js, pico Css, API consult(Web responsive)",
-        "url": "ikerismak.github.io/weather-app-page/",
+        'id' : 10,
+        "nombre": "Bakery landing page",
+        "tecnologias": "html,css,Js,Bootstrap5 (Web responsive)",
+        "url": "preeminent-mermaid-4606b1.netlify.app/",
         "categorias": "Desarrollo web",
         "descripcion": ""
-    }
+    },
+
 
 
 

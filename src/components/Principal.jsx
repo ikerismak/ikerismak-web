@@ -8,8 +8,7 @@ export const Principal = () => {
     <div className='home'>
       <h1> Hi im <strong>Iker Toscano</strong> a mechatronics engineer with 3 years of experience in
 manufacturing as a product developer and prgram managger
-planner. I am a master's student in software engineering and an
-aspirant to <strong>web developer</strong> .</h1>
+planner. I am a master's student in software engineering and <strong>web developer</strong> .</h1>
 
       <h2><Link to="/contacto" className='contact-home'>Contact</Link></h2>
       <section>
