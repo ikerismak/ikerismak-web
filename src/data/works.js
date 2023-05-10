@@ -29,7 +29,7 @@ export const works = [
         'id' : 3,
         "nombre": "Employee checker",
         "tecnologias": "Html5, css, Js, Ruby, Rails, Postgres, Sass",
-        "url": "powerful-waters-05355.herokuapp.com/logins",
+        "url": "powerful-waters-05355.herokuapp.com",
         "categorias": "Desarrollo web",
         "descripcion": ""
     },
